@@ -16,7 +16,7 @@ after encoding the function via encodeFunction we get the string
 ```
 c-oWpDNPJ!ketlRCB=/U!NS2(5ypT38s!cQ42)bqGnmT,qF8]f4JfL^)7:ET002?01s=
 ```
-run mine.py and enter the coded function
+run main.py and enter the coded function
 ```
 python main.py
 ```
