@@ -20,12 +20,12 @@ run main.py and enter the coded function
 ```
 python main.py
 ```
-also you can add add path to text file containing function
+also you can add path to text file containing function
 ```
 python main.py <filepath>
 ```
 after execution, an output folder will be created in the program folder, which will contain two files:
-- decoded.luac - decoded lua bytecoded
+- decoded.luac - decoded lua bytecode
 - decompiled - decompiled lua code
 
 decompiled code for our example
