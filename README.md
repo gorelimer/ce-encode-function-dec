@@ -39,6 +39,6 @@ return nil
 ```
 
 
-thanks @zhangjiequan for lua5.3 decompiler 
+thanks [@zhangjiequan](https://github.com/zhangjiequan) for lua5.3 decompiler 
 
-thanks @FeeeeK for function decoder
+thanks [@FeeeeK](https://github.com/FeeeeK) for function decoder
